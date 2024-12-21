@@ -9,8 +9,6 @@
 
 - 📝 I regularly write articles on [https://adeliaramp.medium.com/](https://adeliaramp.medium.com/)
 
-- 💬 Ask me about **R, SQL, Tableau, Spreadsheets.**
-
 - 📫 How to reach me **contact.adeliaramadhani@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/adeliaramp/](https://www.linkedin.com/in/adeliaramp/)
