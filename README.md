@@ -1,20 +1,32 @@
-<h1 align="center">Hi 👋, I'm Adelia Ramadhani P.</h1>
-<h3 align="center">A Self Taught Data Analyst from Indonesia</h3>
+# Hi there! 👋 I'm Adelia Ramadhani P.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adeliaramp&label=Profile%20views&color=0e75b6&style=flat" alt="adeliaramp" /> </p>
+I'm a self-taught **Data Analyst** from Indonesia 🇮🇩 who loves exploring stories hidden inside data.
 
-- 🌱 I’m currently learning **Python**
+I believe data is not just about numbers — it's about understanding people, solving real problems, and making life better 🌱.
 
-- 👨‍💻 All of my projects are available at [https://github.com/adeliaramp](https://github.com/adeliaramp)
+---
 
-- 📫 How to reach me **contact.adeliaramadhani@gmail.com**
+## ✨ A Little About Me
+- 🌸 I'm currently diving deeper into **Python**, **Machine Learning**, and **Data Visualization**.
+- 📚 I believe in lifelong learning — every project I build is a small step forward.
+- 💻 I enjoy building projects that are simple, helpful, and meaningful.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/adeliaramp/](https://www.linkedin.com/in/adeliaramp/)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/adeliaramp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adeliaramp" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adeliaramp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeliaramp" height="30" width="40" /></a>
-<a href="https://instagram.com/ms.adelia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ms.adelia" height="30" width="40" /></a>
-<a href="https://medium.com/adeliaramp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="adeliaramp" height="30" width="40" /></a>
-</p>
+## 🛠️ My Tools & Playground
+- **Python** | **Pandas** | **NumPy** | **Scikit-learn** | **XGBoost**
+- **Streamlit** (I love creating simple apps!)
+- **SQL** | **Google Looker Studio** | **Matplotlib**
+
+---
+
+## 🌻 Let's Connect
+I'd love to connect, collaborate, or simply share stories with fellow learners and creators!
+
+- 📬 Email me at [contact.adeliaramadhani@gmail.com](mailto:contact.adeliaramadhani@gmail.com)
+- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/adeliaramp/)
+- 🌿 See my projects on [GitHub](https://github.com/adeliaramp)
+
+---
+
+_"Every small project, every late-night bug fix, every learning curve — they're all part of the beautiful journey."_ 🌼
