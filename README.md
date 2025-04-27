@@ -14,9 +14,10 @@ I believe data is not just about numbers — it's about understanding people, so
 ---
 
 ## 🛠️ My Tools & Playground
-- **Python** | **Pandas** | **NumPy** | **Scikit-learn** | **XGBoost**
+- **Python** | **Pandas** | **NumPy** | **Matplotlib**| **Seaborn** | **Scikit-learn** | **XGBoost**
+- **SQL**
+- **Tableau** 
 - **Streamlit** (I love creating simple apps!)
-- **SQL** | **Google Looker Studio** | **Matplotlib**
 
 ---
 
